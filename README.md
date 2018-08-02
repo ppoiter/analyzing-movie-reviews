@@ -1,2 +1,2 @@
 # analyzing-movie-reviews
-Analyzing how major movie review services (IMDB, Fandango, Rotten Tomatoes, Metacritic) rated movies
+Analysis of various movie review websites and their comparative ratings. Descriptive statistics are calculated to draw comparisons between fandango and other review websites. Linear regression is also used to determine fandango review scores based on other review scores.
